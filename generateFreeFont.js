@@ -17,6 +17,7 @@ https.get(freeFontUrl, (response) => {
     })
     // 生成字体和json文件
     generateCSS(list, data)
+    generateLocalCSS(list, data)
     generateJSON(list, data)
   });
 
@@ -41,6 +42,19 @@ function generateCSS(list,data){
           `
     })
     writeFile('./font/free-font.css', freeFont, 'utf8')
+}
+
+function generateLocalCSS(list,data){
+  let freeFont = ''
+  list.forEach(key => {
+      const src = data[key].download.replace('https://github.com/', '/fontFile')
+      freeFont += `@font-face {
+          font-family: '${data[key].name}';
+          src: url('${src}');
+        }
+        `
+  })
+  writeFile('./font/free-font-local.css', freeFont, 'utf8')
 }
 // 生成JSON文件
 function generateJSON(list,data){
