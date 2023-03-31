@@ -47,7 +47,7 @@ function generateCSS(list,data){
 function generateLocalCSS(list,data){
   let freeFont = ''
   list.forEach(key => {
-      const src = data[key].download.replace('https://github.com/', '/fontFile')
+      const src = data[key].download.replace('https://github.com/', './fontFile')
       freeFont += `@font-face {
           font-family: '${data[key].name}';
           src: url('${src}');
