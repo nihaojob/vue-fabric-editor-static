@@ -1,0 +1,90 @@
+{
+	"type": "textbox",
+	"version": "5.3.0",
+	"originX": "left",
+	"originY": "top",
+	"left": 57.23,
+	"top": 248.3,
+	"width": 400,
+	"height": 90.4,
+	"fill": {
+		"type": "linear",
+		"coords": {
+			"x1": 200,
+			"y1": 90.39999999999999,
+			"x2": 200,
+			"y2": 0
+		},
+		"colorStops": [
+			{
+				"offset": 0,
+				"color": "rgba(186, 164, 0, 1)"
+			},
+			{
+				"offset": 0.9220805921052632,
+				"color": "rgba(255, 0, 0, 1)"
+			},
+			{
+				"offset": 1,
+				"color": "rgba(255, 0, 0, 1)"
+			}
+		],
+		"offsetX": 0,
+		"offsetY": 0,
+		"gradientUnits": "pixels",
+		"gradientTransform": null
+	},
+	"stroke": "rgba(255,255,255,1)",
+	"strokeWidth": 0,
+	"strokeDashArray": [],
+	"strokeLineCap": "butt",
+	"strokeDashOffset": 0,
+	"strokeLineJoin": "miter",
+	"strokeUniform": true,
+	"strokeMiterLimit": 4,
+	"scaleX": 1.48,
+	"scaleY": 1.48,
+	"angle": 0,
+	"flipX": false,
+	"flipY": false,
+	"opacity": 1,
+	"shadow": {
+		"color": "rgba(82,0,0,1)",
+		"blur": 7,
+		"offsetX": 0,
+		"offsetY": 4,
+		"affectStroke": false,
+		"nonScaling": false
+	},
+	"visible": true,
+	"backgroundColor": "",
+	"fillRule": "nonzero",
+	"paintFirst": "fill",
+	"globalCompositeOperation": "source-over",
+	"skewX": 0,
+	"skewY": 0,
+	"fontFamily": "arial",
+	"fontWeight": "bold",
+	"fontSize": 80,
+	"text": "输入文字",
+	"underline": false,
+	"overline": false,
+	"linethrough": false,
+	"textAlign": "center",
+	"fontStyle": "normal",
+	"lineHeight": 1.16,
+	"textBackgroundColor": "",
+	"charSpacing": 0,
+	"styles": [],
+	"direction": "ltr",
+	"path": null,
+	"pathStartOffset": 0,
+	"pathSide": "left",
+	"pathAlign": "baseline",
+	"minWidth": 20,
+	"splitByGrapheme": true,
+	"id": "39b2d1d6-7e23-40d3-9fb8-cd9e96f6244a",
+	"gradientAngle": 0,
+	"selectable": true,
+	"hasControls": true
+}
