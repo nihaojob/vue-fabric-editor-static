@@ -35,9 +35,10 @@ function strToData(str){
 function generateCSS(list,data){
     let freeFont = ''
     list.forEach(key => {
+      const newDownload = data[key].download.replace('https://github.com/wordshub/free-font/raw/master/', 'https://wordshub.github.io/free-font/')
         freeFont += `@font-face {
             font-family: '${data[key].name}';
-            src: url('${data[key].download}');
+            src: url('${newDownload}');
           }
           `
     })
