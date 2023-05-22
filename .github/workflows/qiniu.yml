@@ -16,6 +16,6 @@ jobs:
         zone: 华东-浙江 # 存储区域，按实际情况填写 备注1
         access_key: ${{ secrets.AK }} # 七牛云 AccessKey 备注2
         secret_key: ${{ secrets.SK }} # 七牛云 SecretKey 备注2
-        local_dir: svg # 本地文件夹
+        local_dir: / # 本地文件夹
         local_exclude: "**/node_modules/**" # 要排除的内容，要符合 glob 格式
         target_dir: /web # 要上传到七牛云中的文件夹
