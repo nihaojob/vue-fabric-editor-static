@@ -17,5 +17,5 @@ jobs:
 
         # Bucket name, required.
         bucket: editors
-        
+        dest_dir: '/web'
         source_dir: 'font-tmpl'
