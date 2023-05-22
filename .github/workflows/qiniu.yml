@@ -17,3 +17,5 @@ jobs:
 
         # Bucket name, required.
         bucket: editors
+        
+        source_dir: 'font-tmpl'
