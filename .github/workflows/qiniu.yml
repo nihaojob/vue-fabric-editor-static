@@ -1,21 +1,33 @@
-name: 上传到七牛存储
+
+
+name: Upload Website
+
 on: push
 
 jobs:
-  job1:
-    name: 上传到七牛云任务
-    runs-on: Ubuntu-20.04
+  deploy:
+    runs-on: ubuntu-latest
     steps:
-    - name: 检索文件
-      uses: actions/checkout@v2
-
-    - name: 执行上传
-      uses: luochongfei/up2qn@master
+    - uses: actions/checkout@master
+    - uses: hujiulong/action-qiniu-upload@master
       with:
-        bucket: editors # 空间名称，按实际情况填写
-        zone: 华东-浙江 # 存储区域，按实际情况填写 备注1
-        access_key: ${{ secrets.AK }} # 七牛云 AccessKey 备注2
-        secret_key: ${{ secrets.SK }} # 七牛云 SecretKey 备注2
-        local_dir: font-tmpl # 本地文件夹
-        local_exclude: "**/node_modules/**" # 要排除的内容，要符合 glob 格式
-        target_dir: /web # 要上传到七牛云中的文件夹
+        # Your qiniu access key, required.
+        access_key: ${{ secrets.AK }}
+
+        # Your qiniu secret key, required.
+        secret_key: ${{ secrets.SK }}
+
+        # Bucket name, required.
+        bucket: 'editors'
+
+        # The local directory (or file) you want to upload to bucket.
+        # Default: './'
+        source_dir: './'
+
+        # The directory inside of the bucket you want to upload to, namely key prefix prepended to dest file key.
+        # Default: '/'
+        dest_dir: '/web'
+
+        # Whether to ignore source maps.
+        # Default: true
+        ignore_source_map: true
