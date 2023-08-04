@@ -1,22 +1,22 @@
 {
   "data": [
     {
-      "label": "海报模板",
+      "label": "简单模板",
       "tempUrl": "template/221b7d25-b1ff-4217-934b-ee0c703b3b10.json",
       "src": "template/221b7d25-b1ff-4217-934b-ee0c703b3b10.png"
     },
     {
-      "label": "海报模板",
+      "label": "编辑器模板",
       "tempUrl": "template/49234261-0187-4fdc-be80-f9dfb14c8bc6.json",
       "src": "template/49234261-0187-4fdc-be80-f9dfb14c8bc6.png"
     },
     {
-      "label": "海报模板",
+      "label": "酒店活动模板",
       "tempUrl": "template/6ff9093a-4976-416b-8285-db5496842487.json",
       "src": "template/6ff9093a-4976-416b-8285-db5496842487.png"
     },
     {
-      "label": "海报模板",
+      "label": "开源二维码模板",
       "tempUrl": "template/b40fee28-de9f-4304-a07e-2f55d36f137e.json",
       "src": "template/b40fee28-de9f-4304-a07e-2f55d36f137e.png"
     }
