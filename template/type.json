@@ -1,0 +1,64 @@
+{
+  "data": [
+      {
+          "value": "1",
+          "label": "简单模板1",
+          "list":[
+              {
+                  "label": "简单模板",
+                  "value": "1-1",
+                  "tempUrl": "https://nihaojob.github.io/vue-fabric-editor-static/template/221b7d25-b1ff-4217-934b-ee0c703b3b10.json",
+                  "src": "https://nihaojob.github.io/vue-fabric-editor-static/template/221b7d25-b1ff-4217-934b-ee0c703b3b10.png"
+              },
+              {
+                  "label": "编辑器模板",
+                  "value": "1-2",
+                  "tempUrl": "https://nihaojob.github.io/vue-fabric-editor-static/template/49234261-0187-4fdc-be80-f9dfb14c8bc6.json",
+                  "src": "https://nihaojob.github.io/vue-fabric-editor-static/template/49234261-0187-4fdc-be80-f9dfb14c8bc6.png"
+              },
+              {
+                  "label": "酒店活动模板",
+                  "value": "1-3",
+                  "tempUrl": "https://nihaojob.github.io/vue-fabric-editor-static/template/6ff9093a-4976-416b-8285-db5496842487.json",
+                  "src": "https://nihaojob.github.io/vue-fabric-editor-static/template/6ff9093a-4976-416b-8285-db5496842487.png"
+              },
+              {
+                  "label": "开源二维码模板",
+                  "value": "1-4",
+                  "tempUrl": "https://nihaojob.github.io/vue-fabric-editor-static/template/b40fee28-de9f-4304-a07e-2f55d36f137e.json",
+                  "src": "https://nihaojob.github.io/vue-fabric-editor-static/template/b40fee28-de9f-4304-a07e-2f55d36f137e.png"
+              }
+          ]
+      },
+      {
+          "value": "2",
+          "label": "简单模板2",
+          "list":[
+              {
+                  "label": "简单模板",
+                  "value": "1-1",
+                  "tempUrl": "https://nihaojob.github.io/vue-fabric-editor-static/template/221b7d25-b1ff-4217-934b-ee0c703b3b10.json",
+                  "src": "https://nihaojob.github.io/vue-fabric-editor-static/template/221b7d25-b1ff-4217-934b-ee0c703b3b10.png"
+              },
+              {
+                  "label": "编辑器模板",
+                  "value": "1-2",
+                  "tempUrl": "https://nihaojob.github.io/vue-fabric-editor-static/template/49234261-0187-4fdc-be80-f9dfb14c8bc6.json",
+                  "src": "https://nihaojob.github.io/vue-fabric-editor-static/template/49234261-0187-4fdc-be80-f9dfb14c8bc6.png"
+              },
+              {
+                  "label": "酒店活动模板",
+                  "value": "1-3",
+                  "tempUrl": "https://nihaojob.github.io/vue-fabric-editor-static/template/6ff9093a-4976-416b-8285-db5496842487.json",
+                  "src": "https://nihaojob.github.io/vue-fabric-editor-static/template/6ff9093a-4976-416b-8285-db5496842487.png"
+              },
+              {
+                  "label": "开源二维码模板",
+                  "value": "1-4",
+                  "tempUrl": "https://nihaojob.github.io/vue-fabric-editor-static/template/b40fee28-de9f-4304-a07e-2f55d36f137e.json",
+                  "src": "https://nihaojob.github.io/vue-fabric-editor-static/template/b40fee28-de9f-4304-a07e-2f55d36f137e.png"
+              }
+          ]
+      }
+  ]
+}
