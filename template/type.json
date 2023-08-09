@@ -1,0 +1,106 @@
+{
+  "data": [
+      {
+          "value": "1",
+          "label": "简单模板1",
+          "list":[
+              {
+                  "label": "简单模板",
+                  "value": "1-1",
+                  "tempUrl": "https://nihaojob.github.io/vue-fabric-editor-static/template/221b7d25-b1ff-4217-934b-ee0c703b3b10.json",
+                  "src": "https://nihaojob.github.io/vue-fabric-editor-static/template/221b7d25-b1ff-4217-934b-ee0c703b3b10.png"
+              },
+              {
+                  "label": "编辑器模板",
+                  "value": "1-2",
+                  "tempUrl": "https://nihaojob.github.io/vue-fabric-editor-static/template/49234261-0187-4fdc-be80-f9dfb14c8bc6.json",
+                  "src": "https://nihaojob.github.io/vue-fabric-editor-static/template/49234261-0187-4fdc-be80-f9dfb14c8bc6.png"
+              },
+              {
+                  "label": "酒店活动模板",
+                  "value": "1-3",
+                  "tempUrl": "https://nihaojob.github.io/vue-fabric-editor-static/template/6ff9093a-4976-416b-8285-db5496842487.json",
+                  "src": "https://nihaojob.github.io/vue-fabric-editor-static/template/6ff9093a-4976-416b-8285-db5496842487.png"
+              },
+              {
+                  "label": "开源二维码模板",
+                  "value": "1-4",
+                  "tempUrl": "https://nihaojob.github.io/vue-fabric-editor-static/template/b40fee28-de9f-4304-a07e-2f55d36f137e.json",
+                  "src": "https://nihaojob.github.io/vue-fabric-editor-static/template/b40fee28-de9f-4304-a07e-2f55d36f137e.png"
+              }
+          ]
+      },
+      {
+          "value": "2",
+          "label": "简单模板2",
+          "list":[
+              {
+                  "label": "简单模板",
+                  "value": "1-1",
+                  "tempUrl": "https://nihaojob.github.io/vue-fabric-editor-static/template/5184a4a0-1532-4834-ad7f-a7a65c785d1d.json",
+                  "src": "https://nihaojob.github.io/vue-fabric-editor-static/template/5184a4a0-1532-4834-ad7f-a7a65c785d1d.png"
+              },
+              {
+                  "label": "招聘海报",
+                  "value": "1-2",
+                  "tempUrl": "https://nihaojob.github.io/vue-fabric-editor-static/template/b406b2a3-e238-4bea-9490-2a3329736bfd.json",
+                  "src": "https://nihaojob.github.io/vue-fabric-editor-static/template/b406b2a3-e238-4bea-9490-2a3329736bfd.png"
+              },
+              {
+                  "label": "亲自活动",
+                  "value": "1-3",
+                  "tempUrl": "https://nihaojob.github.io/vue-fabric-editor-static/template/a65aa380-75a1-4039-8d9e-67b6f65483a1.json",
+                  "src": "https://nihaojob.github.io/vue-fabric-editor-static/template/a65aa380-75a1-4039-8d9e-67b6f65483a1.png"
+              },
+              {
+                  "label": "食物饼干",
+                  "value": "1-4",
+                  "tempUrl": "https://nihaojob.github.io/vue-fabric-editor-static/template/2e49d775-0e06-4c9d-a60f-ea936890280d.json",
+                  "src": "https://nihaojob.github.io/vue-fabric-editor-static/template/2e49d775-0e06-4c9d-a60f-ea936890280d.png"
+              },
+              {
+                  "label": "职场模板",
+                  "value": "1-5",
+                  "tempUrl": "https://nihaojob.github.io/vue-fabric-editor-static/template/2ce1b7e6-04fa-4734-9882-8c0dbbc837a6.json",
+                  "src": "https://nihaojob.github.io/vue-fabric-editor-static/template/2ce1b7e6-04fa-4734-9882-8c0dbbc837a6.png"
+              },
+          ]
+      },
+      {
+          "value": "3",
+          "label": "简单模板3",
+          "list":[
+              {
+                  "label": "简单模板",
+                  "value": "1-1",
+                  "tempUrl": "https://nihaojob.github.io/vue-fabric-editor-static/template/28356e4a-b9e5-42c0-bf8d-c8508e337d2a.json",
+                  "src": "https://nihaojob.github.io/vue-fabric-editor-static/template/28356e4a-b9e5-42c0-bf8d-c8508e337d2a.png"
+              },
+              {
+                  "label": "餐厅海报",
+                  "value": "1-2",
+                  "tempUrl": "https://nihaojob.github.io/vue-fabric-editor-static/template/307385e3-3853-4fd1-9160-8cd39c986f97.json",
+                  "src": "https://nihaojob.github.io/vue-fabric-editor-static/template/307385e3-3853-4fd1-9160-8cd39c986f97.png"
+              },
+              {
+                  "label": "服装模板",
+                  "value": "1-3",
+                  "tempUrl": "https://nihaojob.github.io/vue-fabric-editor-static/template/320e4b42-09a2-49bc-a659-888e80660264.json",
+                  "src": "https://nihaojob.github.io/vue-fabric-editor-static/template/320e4b42-09a2-49bc-a659-888e80660264.png"
+              },
+              {
+                  "label": "拼图模板",
+                  "value": "1-4",
+                  "tempUrl": "https://nihaojob.github.io/vue-fabric-editor-static/template/88594942-951f-4c66-9a2c-8e1897436338.json",
+                  "src": "https://nihaojob.github.io/vue-fabric-editor-static/template/88594942-951f-4c66-9a2c-8e1897436338.png"
+              },
+              {
+                  "label": "职场模板",
+                  "value": "1-4",
+                  "tempUrl": "https://nihaojob.github.io/vue-fabric-editor-static/template/2ce1b7e6-04fa-4734-9882-8c0dbbc837a6.json",
+                  "src": "https://nihaojob.github.io/vue-fabric-editor-static/template/2ce1b7e6-04fa-4734-9882-8c0dbbc837a6.png"
+              },
+          ]
+      }
+  ]
+}
